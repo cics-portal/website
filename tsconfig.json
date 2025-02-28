@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "target": "ES2022",
+        "forceConsistentCasingInFileNames": true,
+        "strict": true
+    },
+    "include": [
+        "src/.vuepress/**/*.ts",
+        "src/.vuepress/**/*.vue",
+        "src/demo/002/example.vue"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
