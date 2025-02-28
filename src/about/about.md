@@ -13,7 +13,7 @@ tagline: ""
 
 ::: center
 
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\about\image-20250225111220376.png" alt="image-20250225111220376" style="zoom:50%;" />
+<img src="/image-20250225111220376.png" alt="image-20250225111220376" style="zoom:50%;" />
 
 ### **Rothana Pech (Ph.D.)**
 
@@ -29,7 +29,7 @@ Dr. Pech received his Ph.D. in mobile communication engineering from Chung-Ang U
 
 ::: center
 
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\about\image-20250225111310091.png" alt="image-20250225111310091" style="zoom:50%;" />
+<img src="/image-20250225111310091.png" alt="image-20250225111310091" style="zoom:50%;" />
 
 ### Dara Ron (Ph.D.)
 
@@ -45,7 +45,7 @@ Dr. Ron obtained his PhD degree from Chung-Ang University (CAU), South Korea. He
 
 ::: center
 
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\about\image-20250225111346982.png" alt="image-20250225111346982" style="zoom:50%;" />
+<img src="/image-20250225111346982.png" alt="image-20250225111346982" style="zoom:50%;" />
 
 ### Lihour Nov (Ph.D.)
 
@@ -62,7 +62,7 @@ His works have been published in several SCIE journals, including IEEE Access, I
 
 ::: center
 
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\about\image-20250225111409929.png" alt="image-20250225111409929" style="zoom:50%;" />
+<img src="/image-20250225111409929.png" alt="image-20250225111409929" style="zoom:50%;" />
 
 ### Phanam PECH (Ph.D.)
 

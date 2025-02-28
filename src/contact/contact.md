@@ -8,15 +8,11 @@ heroText: ""
 tagline: ""
 ---
 
-
-
-
-
 ## Information
 
 ::: center
 
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\contact\image-20250225121011139.png" alt="image-20250225121011139" />
+<img src="/image-20250225121011139.png" alt="image-20250225121011139" />
 
 :::
 

@@ -23,12 +23,12 @@ copyright: false
 
 We are excited to invite you to join our webinar on a topic of "A Novel Approach to Student Behavior Classification Using Deep Learning" with our invited guest-speaker from a university in Thailand. His talk will be related to the application of AI to enhance student outcomes through learning classification.
 
-Join us via zoom link: [https://ncsu.zoom.us/j/3810472620...](https://ncsu.zoom.us/j/3810472620?pwd=HLFE2aZdNIMsMhWBwG6Ul5bqoDYx8o.1&fbclid=IwZXh0bgNhZW0CMTAAAR0lrhzh7vibLTuKIHIEWo3DdG5kxDmTlohFfWoX-Q9DHrelTwYJ6P1cr4U_aem_ZDnJCCl9brkJGLPWX_C7Eg) 
+Join us via zoom link: [https://ncsu.zoom.us/j/3810472620...](https://ncsu.zoom.us/j/3810472620?pwd=HLFE2aZdNIMsMhWBwG6Ul5bqoDYx8o.1&fbclid=IwZXh0bgNhZW0CMTAAAR0lrhzh7vibLTuKIHIEWo3DdG5kxDmTlohFfWoX-Q9DHrelTwYJ6P1cr4U_aem_ZDnJCCl9brkJGLPWX_C7Eg)
 
 See less
 
 ::: center
 
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115816789.png" alt="image-20250225115816789" />
+<!-- <img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115816789.png" alt="image-20250225115816789" /> -->
 
 :::

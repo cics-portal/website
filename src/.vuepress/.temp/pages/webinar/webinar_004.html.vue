@@ -5,7 +5,7 @@
 <p>Join us via zoom link: <a href="https://ncsu.zoom.us/j/3810472620?pwd=HLFE2aZdNIMsMhWBwG6Ul5bqoDYx8o.1&amp;fbclid=IwZXh0bgNhZW0CMTAAAR0lrhzh7vibLTuKIHIEWo3DdG5kxDmTlohFfWoX-Q9DHrelTwYJ6P1cr4U_aem_ZDnJCCl9brkJGLPWX_C7Eg" target="_blank" rel="noopener noreferrer">https://ncsu.zoom.us/j/3810472620...</a></p>
 <p>See less</p>
 <div style="text-align:center">
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115816789.png" alt="image-20250225115816789" />
+<!-- <img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115816789.png" alt="image-20250225115816789" /> -->
 </div>
 </div></template>
 

@@ -23,6 +23,6 @@ Join us via zoom link: [https://ncsu.zoom.us/j/3810472620...](https://ncsu.zoom.
 
 ::: center
 
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115647292.png" alt="image-20250225115647292" />
+<!-- <img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115647292.png" alt="image-20250225115647292" /> -->
 
 :::

@@ -21,12 +21,12 @@ copyright: false
 
 We are excited to invite you to our webinar on "Efficient Pig Sounds Classification Using a Lightweight CNN Model," presented by a researcher from the NIAS research institute in South Korea. His talk will focus on the application of Machine Learning in pig farming.
 
-Join us via zoom link: [https://ncsu.zoom.us/j/3810472620...](https://ncsu.zoom.us/j/3810472620?pwd=HLFE2aZdNIMsMhWBwG6Ul5bqoDYx8o.1&fbclid=IwZXh0bgNhZW0CMTAAAR0dPlulpG84vhgF5Of_6e8TGaelyV9trOzwFtTnm_DJwq3E3j5PshZve_I_aem_kvPT5fLmOxk19xszgJEbIg) 
+Join us via zoom link: [https://ncsu.zoom.us/j/3810472620...](https://ncsu.zoom.us/j/3810472620?pwd=HLFE2aZdNIMsMhWBwG6Ul5bqoDYx8o.1&fbclid=IwZXh0bgNhZW0CMTAAAR0dPlulpG84vhgF5Of_6e8TGaelyV9trOzwFtTnm_DJwq3E3j5PshZve_I_aem_kvPT5fLmOxk19xszgJEbIg)
 
 See less
 
 ::: center
 
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115931942.png" alt="image-20250225115931942" />
+<!-- <img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115931942.png" alt="image-20250225115931942" /> -->
 
 :::

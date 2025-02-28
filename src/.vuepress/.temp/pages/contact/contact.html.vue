@@ -1,6 +1,6 @@
 <template><div><h2 id="information" tabindex="-1"><a class="header-anchor" href="#information"><span>Information</span></a></h2>
 <div style="text-align:center">
-<img src="C:\Users\muysengly\Desktop\my_github\cics\src\contact\image-20250225121011139.png" alt="image-20250225121011139" />
+<img src="/image-20250225121011139.png" alt="image-20250225121011139" />
 </div>
 <ul>
 <li>
