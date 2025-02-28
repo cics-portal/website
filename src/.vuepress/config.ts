@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
     theme,
 
-    base: "/cics/",
+    base: "/website/",
 
     locales: {
         "/": {
