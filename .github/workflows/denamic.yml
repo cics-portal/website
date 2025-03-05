@@ -23,7 +23,7 @@ jobs:
           node-version: "16"
 
       - name: Install deps
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       # run build script
       - name: Build VuePress site
