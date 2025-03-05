@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://cics-portal.github.io/website/website/sitemap.xml
