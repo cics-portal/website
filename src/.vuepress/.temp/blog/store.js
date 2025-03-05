@@ -1,1 +1,1 @@
-export const store = ["/webinar/webinar_006.html","/webinar/webinar_005.html","/webinar/webinar_004.html","/webinar/webinar_003.html","/webinar/webinar_002.html","/webinar/webinar_001.html","/webinar/"];
+export const store = ["/webinar/webinar_006.html","/webinar/webinar_005.html","/webinar/webinar_004.html","/webinar/webinar_003.html","/webinar/webinar_002.html","/webinar/webinar_001.html","/about/about.html","/member/member.html","/webinar/"];

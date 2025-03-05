@@ -7,12 +7,14 @@ date: 2024-01-01
 
 sticky: false
 star: false
-footer: false
-copyright: false
 index: false
 toc: false
 # sidebar: false
 # navbar: false
+comment: false
+editLink: false
+copyright: false
+footer: "😊 Designed by Sengly MUY 😊"
 ---
 
 We are excited to invite you to our upcoming webinars, where we will delve deeper into various topics.

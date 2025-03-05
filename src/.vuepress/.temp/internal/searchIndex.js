@@ -7,7 +7,7 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Contact",
+    "title": "About",
     "headers": [
       {
         "level": 2,
@@ -18,6 +18,13 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/about/about.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Demos and Features",
+    "headers": [],
+    "path": "/demo/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -33,13 +40,6 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/member/member.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Demos and Features",
-    "headers": [],
-    "path": "/demo/",
     "pathLocale": "/",
     "extraFields": []
   },

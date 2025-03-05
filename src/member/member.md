@@ -3,10 +3,15 @@ title: About
 icon: address-card
 date: 2024-12-12
 
-home: true
+# home: true
 
-heroText: ""
-tagline: ""
+# heroText: ""
+# tagline: ""
+toc: false
+comment: false
+# editLink: false
+copyright: false
+footer: "😊 Designed by Sengly MUY 😊"
 ---
 
 ## Members
