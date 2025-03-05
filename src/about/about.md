@@ -14,8 +14,6 @@ footer: "😊 Designed by Sengly MUY 😊"
 
 ## Information
 
-Test Edit
-
 ::: center
 
 <img src="./image-20250225121011139.png" alt="image-20250225121011139" />
