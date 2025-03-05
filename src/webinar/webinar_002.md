@@ -1,9 +1,9 @@
 ---
-title: Webinar 002
+order: 2
 icon: tv
-# order: 1
+title: 2. Mr. Thara SON
 author: Unknow
-date: 2000-01-01
+date: 2024-10-23
 category:
   - Webinar
 tag:
@@ -13,9 +13,8 @@ sticky: false
 star: false
 footer: false
 copyright: false
+toc: false
 ---
-
-## Webinar
 
 We are excited to invite you to join our webinar to gain insights into network security. Our speaker has successfully proposed a method that secures the data transmission rate for legitimate receiver under interception by eavesdropper, while accounting for imperfect channel estimation. His study was accepted to publish in IEEE TVT, which is a high-quality journal.
 
@@ -23,6 +22,6 @@ Join us via zoom: [https://ncsu.zoom.us/j/3810472620...](https://ncsu.zoom.us/j/
 
 ::: center
 
-<!-- <img src="C:\Users\muysengly\Desktop\my_github\cics\src\webinar\image-20250225115447164.png" alt="image-20250225115447164" /> -->
+<img src="./image-20250225115447164.png" alt="image-20250225115447164" />
 
 :::

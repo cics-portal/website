@@ -5,7 +5,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
     // Domain which to be deployed to
-    hostname: "",
+    hostname: "https://cics-portal.github.io/website",
 
     // Global default license
     license: "MIT",
@@ -13,8 +13,8 @@ export default hopeTheme({
     // Global default author
     author: {
         name: "CICS",
-        url: "",
-        email: "",
+        url: "https://github.com/cics-portal",
+        email: "cics.inform@gmail.com",
     },
 
     // Link of font icon asset
@@ -26,6 +26,7 @@ export default hopeTheme({
 
     // Repository link
     //   repo: "muysengly/blog",
+    repo: "cics-portal/website",
 
     // Docs dir location in repo
     docsDir: "src",
@@ -41,11 +42,11 @@ export default hopeTheme({
     // Whether to display footer by default
     displayFooter: false,
 
-    // Whether to display footer by default
-    //
+
+    // Encrypt config
     encrypt: {
         config: {
-            "/demo/001/005.encrypt": ["123"],
+            "/demo/feature/005.encrypt": ["123"],
         },
     },
 
@@ -62,9 +63,9 @@ export default hopeTheme({
                 if (!filePathRelative) return false;
 
                 // drop those pages
-                if (filePathRelative.startsWith("classes/")) return false;
-                // if (filePathRelative.startsWith("about/")) return false;
                 if (filePathRelative.startsWith("demo/")) return false;
+                // if (filePathRelative.startsWith("template/")) return false;
+                // if (filePathRelative.startsWith("about/")) return false;
 
                 // drop those pages which do not use default layout
                 if (frontmatter.home || frontmatter.layout) return false;
@@ -85,12 +86,13 @@ export default hopeTheme({
 
         // Note: This is for testing ONLY!
         // You MUST generate and use your own comment service in production.
+        // https://giscus.app/
         comment: {
             provider: "Giscus",
-            repo: "muysengly/blog",
-            repoId: "R_kgDOIKiZFw",
+            repo: "cics-portal/website",
+            repoId: "R_kgDOOA91XA",
             category: "General",
-            categoryId: "DIC_kwDOIKiZF84Ckdvb",
+            categoryId: "DIC_kwDOOA91XM4CnbUW",
         },
 
         components: {

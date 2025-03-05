@@ -6,6 +6,28 @@ export default navbar([
         link: "/article/",
         icon: "newspaper",
     },
+
+    {
+        text: "Webinar",
+        link: "/webinar/",
+        icon: "tv",
+    },
+    {
+        text: "Member",
+        link: "/member/member",
+        icon: "users",
+    },
+    {
+        text: "About",
+        link: "/about/about",
+        icon: "circle-info",
+    },
+    {
+        text: "Demo",
+        link: "/demo/",
+        icon: "star",
+    },
+
     // {
     //     text: "Classes",
     //     icon: "book",
@@ -22,24 +44,4 @@ export default navbar([
     //         },
     //     ],
     // },
-    {
-        text: "Webinar",
-        link: "/webinar/",
-        icon: "tv",
-    },
-    {
-        text: "About",
-        link: "/about/about",
-        icon: "address-card",
-    },
-    {
-        text: "Contact",
-        link: "/contact/contact",
-        icon: "envelope",
-    },
-    {
-        text: "Demo",
-        link: "/demo/",
-        icon: "star",
-    },
 ]);

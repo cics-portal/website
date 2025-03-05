@@ -8,17 +8,17 @@ heroText: CICS
 tagline: Cambodia Information and <br> Communication Society
 actions:
   - text: Get Started
-    link: /get-started/
+    link: /article/
     icon: signs-post
     type: primary
 
-  - text: Guide
-    icon: lightbulb
-    link: /guide/
-
-  - text: Demos
-    icon: star
-    link: /demo/
+#   - text: Demos
+#     icon: star
+#     type: primary
+#     link: /demo/
+#   - text: Guide
+#     icon: lightbulb
+#     link: /guide/
 
 features:
   - title: Demo Demo
@@ -33,7 +33,7 @@ features:
 
   - title: Demo Demo
     icon: object-group
-    details: Demo Demoand etc.
+    details: Demo Demo
     link: /
 
   - title: Demo Demo
@@ -47,5 +47,5 @@ features:
     link: /
 
 copyright: false
-footer: Sengly MUY
+footer: "😊 Designed by Sengly MUY 😊"
 ---

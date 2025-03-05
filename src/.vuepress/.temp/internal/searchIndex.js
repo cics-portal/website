@@ -7,21 +7,6 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "About",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Members",
-        "slug": "members",
-        "link": "#members",
-        "children": []
-      }
-    ],
-    "path": "/about/about.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Contact",
     "headers": [
       {
@@ -32,235 +17,85 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/contact/contact.html",
+    "path": "/about/about.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Welcome",
+    "title": "About",
     "headers": [
       {
         "level": 2,
-        "title": "Welcome to my blog.",
-        "slug": "welcome-to-my-blog",
-        "link": "#welcome-to-my-blog",
+        "title": "Members",
+        "slug": "members",
+        "link": "#members",
         "children": []
       }
     ],
-    "path": "/pages/20241210%20welcome%20page.html",
+    "path": "/member/member.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Webinar 001",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Webinar",
-        "slug": "webinar",
-        "link": "#webinar",
-        "children": []
-      }
-    ],
+    "title": "Demos and Features",
+    "headers": [],
+    "path": "/demo/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Webinar Series",
+    "headers": [],
+    "path": "/webinar/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "1. Dr. Satya CHAN",
+    "headers": [],
     "path": "/webinar/webinar_001.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Webinar 002",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Webinar",
-        "slug": "webinar",
-        "link": "#webinar",
-        "children": []
-      }
-    ],
+    "title": "2. Mr. Thara SON",
+    "headers": [],
     "path": "/webinar/webinar_002.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Webinar 003",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Webinar",
-        "slug": "webinar",
-        "link": "#webinar",
-        "children": []
-      }
-    ],
+    "title": "3. Dr. Lihour NOV",
+    "headers": [],
     "path": "/webinar/webinar_003.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Webinar 004",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Webinar",
-        "slug": "webinar",
-        "link": "#webinar",
-        "children": []
-      }
-    ],
+    "title": "4. Dr. Somsawuth NINDAM",
+    "headers": [],
     "path": "/webinar/webinar_004.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Webinar 005",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Webinar",
-        "slug": "webinar",
-        "link": "#webinar",
-        "children": []
-      }
-    ],
+    "title": "5. Mr. Vandet PANN",
+    "headers": [],
     "path": "/webinar/webinar_005.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Webinar 006",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Webinar",
-        "slug": "webinar",
-        "link": "#webinar",
-        "children": []
-      }
-    ],
+    "title": "6. Dr. Socheatra SOENG",
+    "headers": [],
     "path": "/webinar/webinar_006.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "File_01",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Author",
-        "slug": "author",
-        "link": "#author",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Coauthor",
-        "slug": "coauthor",
-        "link": "#coauthor",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Member",
-        "slug": "member",
-        "link": "#member",
-        "children": []
-      }
-    ],
-    "path": "/classes/class_01/file_001.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "File_02",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Author",
-        "slug": "author",
-        "link": "#author",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Coauthor",
-        "slug": "coauthor",
-        "link": "#coauthor",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Member",
-        "slug": "member",
-        "link": "#member",
-        "children": []
-      }
-    ],
-    "path": "/classes/class_01/file_002.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "File_01",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Author",
-        "slug": "author",
-        "link": "#author",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Coauthor",
-        "slug": "coauthor",
-        "link": "#coauthor",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Member",
-        "slug": "member",
-        "link": "#member",
-        "children": []
-      }
-    ],
-    "path": "/classes/class_02/file_001.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "File_02",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Author",
-        "slug": "author",
-        "link": "#author",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Coauthor",
-        "slug": "coauthor",
-        "link": "#coauthor",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Member",
-        "slug": "member",
-        "link": "#member",
-        "children": []
-      }
-    ],
-    "path": "/classes/class_02/file_002.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "1. Layout",
     "headers": [],
-    "path": "/demo/001/001.layout.html",
+    "path": "/demo/feature/001.layout.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -304,7 +139,7 @@ export const SEARCH_INDEX = [
         ]
       }
     ],
-    "path": "/demo/001/002.markdown.html",
+    "path": "/demo/feature/002.markdown.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -340,14 +175,14 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/demo/001/003.page.html",
+    "path": "/demo/feature/003.page.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "4. Disabling Layout",
     "headers": [],
-    "path": "/demo/001/004.disable.html",
+    "path": "/demo/feature/004.disable.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -362,7 +197,7 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/demo/001/006.water%20mark.html",
+    "path": "/demo/feature/006.water%20mark.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -377,7 +212,7 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/demo/001/007.cover.html",
+    "path": "/demo/feature/007.cover.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -406,14 +241,14 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/demo/001/008.home.with.feature.html",
+    "path": "/demo/feature/008.home.with.feature.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "9. Home",
     "headers": [],
-    "path": "/demo/001/009.home.html",
+    "path": "/demo/feature/009.home.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -442,7 +277,7 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/demo/001/010.image.preview.html",
+    "path": "/demo/feature/010.image.preview.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -500,14 +335,14 @@ export const SEARCH_INDEX = [
         ]
       }
     ],
-    "path": "/demo/001/011.page.info.html",
+    "path": "/demo/feature/011.page.info.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "12. Built-in Components",
     "headers": [],
-    "path": "/demo/001/012.buitin.component.html",
+    "path": "/demo/feature/012.buitin.component.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -558,7 +393,7 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/demo/001/013.image.html",
+    "path": "/demo/feature/013.image.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -609,7 +444,7 @@ export const SEARCH_INDEX = [
         ]
       }
     ],
-    "path": "/demo/001/014.content.html",
+    "path": "/demo/feature/014.content.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -624,33 +459,56 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/demo/001/015.include.vue.html",
+    "path": "/demo/feature/015.include.vue.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "16. VUE in MD",
     "headers": [],
-    "path": "/demo/001/016.vue.in.markdown.html",
+    "path": "/demo/feature/016.vue.in.markdown.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "17. Customized Home",
     "headers": [],
-    "path": "/demo/001/017.customize.home.html",
+    "path": "/demo/feature/017.customize.home.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "1. Features demo",
-    "headers": [],
-    "path": "/demo/001/",
+    "title": "Features",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Welcome to my blog.",
+        "slug": "welcome-to-my-blog",
+        "link": "#welcome-to-my-blog",
+        "children": []
+      }
+    ],
+    "path": "/demo/feature/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "2.1. Template",
+    "title": "Template",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Welcome to my blog.",
+        "slug": "welcome-to-my-blog",
+        "link": "#welcome-to-my-blog",
+        "children": []
+      }
+    ],
+    "path": "/demo/template/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Template General",
     "headers": [
       {
         "level": 2,
@@ -660,304 +518,182 @@ export const SEARCH_INDEX = [
         "children": []
       }
     ],
-    "path": "/demo/002/001_template.html",
+    "path": "/demo/template/template_000_general.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Cherry",
+    "title": "Template Webinar",
     "headers": [
       {
         "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
+        "title": "This is the header template",
+        "slug": "this-is-the-header-template",
+        "link": "#this-is-the-header-template",
+        "children": []
       }
     ],
-    "path": "/demo/002/cherry.html",
+    "path": "/demo/template/template_001_webinar.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Dragon Fruit",
+    "title": "Template About",
     "headers": [
       {
         "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
+        "title": "This is the header template",
+        "slug": "this-is-the-header-template",
+        "link": "#this-is-the-header-template",
+        "children": []
       }
     ],
-    "path": "/demo/002/dragonfruit.html",
+    "path": "/demo/template/template_002_about.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "2. Other Demo",
+    "title": "Template Contact",
+    "headers": [
+      {
+        "level": 2,
+        "title": "This is the header template",
+        "slug": "this-is-the-header-template",
+        "link": "#this-is-the-header-template",
+        "children": []
+      }
+    ],
+    "path": "/demo/template/template_003_contact.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "File_01",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Author",
+        "slug": "author",
+        "link": "#author",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Coauthor",
+        "slug": "coauthor",
+        "link": "#coauthor",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Member",
+        "slug": "member",
+        "link": "#member",
+        "children": []
+      }
+    ],
+    "path": "/demo/template/class_01/file_001.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "File_02",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Author",
+        "slug": "author",
+        "link": "#author",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Coauthor",
+        "slug": "coauthor",
+        "link": "#coauthor",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Member",
+        "slug": "member",
+        "link": "#member",
+        "children": []
+      }
+    ],
+    "path": "/demo/template/class_01/file_002.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Class 1",
     "headers": [],
-    "path": "/demo/002/",
+    "path": "/demo/template/class_01/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Strawberry",
+    "title": "File_01",
     "headers": [
       {
         "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
+        "title": "Author",
+        "slug": "author",
+        "link": "#author",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Coauthor",
+        "slug": "coauthor",
+        "link": "#coauthor",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Member",
+        "slug": "member",
+        "link": "#member",
+        "children": []
       }
     ],
-    "path": "/demo/002/strawberry.html",
+    "path": "/demo/template/class_02/file_001.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Tomato",
+    "title": "File_02",
     "headers": [
       {
         "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/demo/002/tomato.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Apple 1",
-    "headers": [
+        "title": "Author",
+        "slug": "author",
+        "link": "#author",
+        "children": []
+      },
       {
         "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/demo/002/002.002/1.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Apple 2",
-    "headers": [
+        "title": "Coauthor",
+        "slug": "coauthor",
+        "link": "#coauthor",
+        "children": []
+      },
       {
         "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
+        "title": "Member",
+        "slug": "member",
+        "link": "#member",
+        "children": []
       }
     ],
-    "path": "/demo/002/002.002/2.html",
+    "path": "/demo/template/class_02/file_002.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Apple 3",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/demo/002/002.002/3.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Apple 4",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/demo/002/002.002/4.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "2.2. Apple",
+    "title": "Class 2",
     "headers": [],
-    "path": "/demo/002/002.002/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Banana 1",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/demo/002/002.003/1.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Banana 2",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/demo/002/002.003/2.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Banana 3",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/demo/002/002.003/3.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Banana 4",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "link": "#heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "link": "#heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/demo/002/002.003/4.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "2.3. Banana",
-    "headers": [],
-    "path": "/demo/002/002.003/",
+    "path": "/demo/template/class_02/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -976,51 +712,9 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Contact",
+    "title": "Member",
     "headers": [],
-    "path": "/contact/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pages",
-    "headers": [],
-    "path": "/pages/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Webinar",
-    "headers": [],
-    "path": "/webinar/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Class 01",
-    "headers": [],
-    "path": "/classes/class_01/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Classes",
-    "headers": [],
-    "path": "/classes/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Class 02",
-    "headers": [],
-    "path": "/classes/class_02/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Demo",
-    "headers": [],
-    "path": "/demo/",
+    "path": "/member/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1028,13 +722,6 @@ export const SEARCH_INDEX = [
     "title": "Category",
     "headers": [],
     "path": "/category/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Welcome Category",
-    "headers": [],
-    "path": "/category/welcome/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1049,13 +736,6 @@ export const SEARCH_INDEX = [
     "title": "Tag",
     "headers": [],
     "path": "/tag/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tag: Welcome",
-    "headers": [],
-    "path": "/tag/welcome/",
     "pathLocale": "/",
     "extraFields": []
   },
